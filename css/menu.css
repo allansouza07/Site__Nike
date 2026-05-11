@@ -555,16 +555,16 @@ body {
 .cabecalhobranco{
     position: relative;
     background-color: rgb(247, 240, 240);
-    height: 20px;
+    height: 50px;
     width:12px;
     
 }
 .logo {
     position: absolute;
-    width:30px;
-    height:50px;
+    width:60px;
+    height:100px;
     left:0px;
-    top:-14px;
+    top:-25px;
     z-index: 3;
 }
 .lupa{
@@ -622,13 +622,13 @@ body {
 .menu{
     position: relative;
     background-color: white;
-    height:11px;
+    height:30px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    font-size:8px;
+    font-size:11px;
     margin:1px;
 
 }
@@ -649,7 +649,7 @@ body {
 .publicidade{
     position: relative;
     background-color: rgb(247, 240, 240);
-    height:27px;  
+    height:47px;  
     
 }
 .caminhao{
@@ -666,7 +666,7 @@ body {
     align-items: center;
     font-size:12px;
     font-family: 'Times New Roman', Times, serif;
-    top:7px;
+    top:15px;
 }
 .saibamais{
     position: relative;
