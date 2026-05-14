@@ -598,9 +598,9 @@ body {
 }
 .cep1{
     position:absolute;
-    font-size:10px;
-    left:290px;
-    top:10px;
+    font-size:8px;
+    left:250px;
+    top:12px;
     padding: 3px;
     background-color:rgb(207, 200, 200);
     z-index: 3;
@@ -618,7 +618,7 @@ body {
     position: relative;
     width: 20px;
     height: 20px;
-    left:385px;
+    left:355px;
     top:-125px;
     z-index: 3;
 
